@@ -7,6 +7,7 @@
 - Live real-time location tracking for a device
 - Login and Register System
 - Sharing can be turned on or off
+- Where is My Friend button for find the firend easy
 
 
 [Flutter](https://flutter.dev/docs/cookbook)
@@ -18,41 +19,31 @@
   <summary>Click to expand!</summary>
   
   ## App Screens
+  
   - Login & Register
 
-  <img src="https://github.com/cihatfurkaneken/CinemaTickets/blob/master/Screenshots/login.jpg?raw=true" alt="drawing" width="200"/> <img src="https://github.com/cihatfurkaneken/CinemaTickets/blob/master/Screenshots/register.jpg?raw=true" alt="drawing" width="200"/>
+  <img src="https://github.com/cihatfurkaneken/CarFollowFlutter/blob/master/Screenshoots/login.jpg?raw=true" alt="drawing" width="200"/> <img src="https://github.com/cihatfurkaneken/CarFollowFlutter/blob/master/Screenshoots/kay%C4%B1t.jpg?raw=true" alt="drawing" width="200"/>
 
-- Main & Theaters Screen
+- Entering Uid and Share
 
-<img src="https://github.com/cihatfurkaneken/CinemaTickets/blob/master/Screenshots/mainscreen.jpg?raw=true" alt="drawing" width="200"/> <img src="https://github.com/cihatfurkaneken/CinemaTickets/blob/master/Screenshots/theaters.jpg?raw=true" alt="drawing" width="200"/>
+<img src="https://github.com/cihatfurkaneken/CarFollowFlutter/blob/master/Screenshoots/enteruid.jpg?raw=true" alt="drawing" width="200"/> <img src="https://github.com/cihatfurkaneken/CarFollowFlutter/blob/master/Screenshoots/sharing.jpg?raw=true" alt="drawing" width="200"/>
+  
+ - Map and Seeing friend
+  
+  <img src="https://github.com/cihatfurkaneken/CarFollowFlutter/blob/master/Screenshoots/map.jpg?raw=true alt="drawing" width="200"/> 
 
-- Movie Details
-
-<img src="https://github.com/cihatfurkaneken/CinemaTickets/blob/master/Screenshots/moviedetails.jpg?raw=true" alt="drawing" width="200"/> <img src="https://github.com/cihatfurkaneken/CinemaTickets/blob/master/Screenshots/moviedetails2.jpg" alt="drawing" width="200"/>
-
-- Seat Selection
-
-<img src="https://github.com/cihatfurkaneken/CinemaTickets/blob/master/Screenshots/seat.jpg?raw=true" alt="drawing" width="200"/> <img src="https://github.com/cihatfurkaneken/CinemaTickets/blob/master/Screenshots/seatselection.jpg?raw=true" alt="drawing" width="200"/>
-
-- Ticket Details
-
-<img src="https://github.com/cihatfurkaneken/CinemaTickets/blob/master/Screenshots/ticketdetails.jpg?raw=true" alt="drawing" width="200"/> 
-
-- User & My Tickets
-
-<img src="https://github.com/cihatfurkaneken/CinemaTickets/blob/master/Screenshots/user.jpg?raw=true" alt="drawing" width="200"/> <img src="https://github.com/cihatfurkaneken/CinemaTickets/blob/master/Screenshots/mytickets.jpg?raw=true" alt="drawing" width="200"/>
-
+  
 </details>
 
 ## Firebase Firestore
 <details>
   <summary>Click to expand!</summary>
 
-- Tickets
-<img src="https://github.com/cihatfurkaneken/CinemaTickets/blob/master/Screenshots/firebase1.png?raw=true" alt="drawing" width="200"/>
+- Locations
+<img src="https://github.com/cihatfurkaneken/CarFollowFlutter/blob/master/Screenshoots/firebaseloc.png?raw=true" alt="drawing" width="200"/>
 
-- Movies
-<img src="https://github.com/cihatfurkaneken/CinemaTickets/blob/master/Screenshots/firebase2.png?raw=true" alt="drawing" width="200"/>
+- Users
+<img src="https://github.com/cihatfurkaneken/CarFollowFlutter/blob/master/Screenshoots/firebaseusers.png?raw=true" alt="drawing" width="200"/>
 
 
 
@@ -66,6 +57,7 @@
             android:value="yourAPIkeyHere"/>
 ```
 - You need Create Firestroe from Firebase and create 2 collection named 'Konumlar' and 'Kullanicilar' it is default names you can change from codes. Then take GoogleServices.json file from Firebase and put to .\android\app folder.
+                                          
 
 ### Thank You
 
