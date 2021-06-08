@@ -30,7 +30,9 @@
   
  - Map and Seeing friend
   
-  <img src="https://github.com/cihatfurkaneken/CarFollowFlutter/blob/master/Screenshoots/map.jpg?raw=true alt="drawing" width="200"/> 
+  <img src="https://github.com/cihatfurkaneken/CarFollowFlutter/blob/master/Screenshoots/map.jpg?raw=true alt="drawing" alt="drawing" width="200"/> 
+  
+
 
   
 </details>
