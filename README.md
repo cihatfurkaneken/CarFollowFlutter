@@ -48,7 +48,6 @@
 <img src="https://github.com/cihatfurkaneken/CarFollowFlutter/blob/master/Screenshoots/firebaseusers.png?raw=true" alt="drawing" width="200"/>
 
 
-
   </details>
 
 ## Installation
@@ -59,6 +58,8 @@
             android:value="yourAPIkeyHere"/>
 ```
 - You need Create Firestroe from Firebase and create 2 collection named 'Konumlar' and 'Kullanicilar' it is default names you can change from codes. Then take GoogleServices.json file from Firebase and put to .\android\app folder.
+
+- Don't forget to enable Firebase Auth email
                                           
 
 ### Thank You
