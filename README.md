@@ -65,3 +65,7 @@
 ### Thank You
 
   > _The application is designed in Turkish but can be easily modified._
+
+##  Testing
+
+This is a testing demo
